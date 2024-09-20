@@ -1,0 +1,23 @@
+fieldset{
+	border-radius:20px;
+	align:center;
+	margin:0 25%;
+	background:none;
+	border:8px double gray;
+	padding-left:40px;
+	padding-right:40px;
+		
+	}
+
+.name{
+	color:#0aaefa;
+	text-align:center;
+	}
+.links{
+	padding-left:110px;	
+}
+
+
+.experience p,.education p,.projects p,.tech_skills p,.achievements p,.interests p,.certificates p{
+	color:#0aaefa;
+	}
